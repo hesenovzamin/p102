@@ -1,0 +1,10 @@
+1952 ci ilde yaradilib.Assembly dili kohne dil olsada hal hazirdada yenilenir ve  olmadan diger programlasdirma dillerini tessevvur etmek olmaz.
+Assembly bu dilde esasen 0 lar ve 1 lerle ekrana herfleri oturur.Bu dili oyrenmek cox vaxt alir ve bu dilde her hansi program yazmaq ucun daha cox kod yazmaq lazim olur.
+bu dilde her 1 kod 4 bayt yer tutur.her hansi qisa kodlu programi bu dilde yazsaq onun 2 ve daha cox qat qeder kod yazmaq lazim olur.diger dillerden ferqli olaraq bu dilde yazdigimi program daha az yer tutur. ve program daha suretle isleyir.
+hal hazirda bu dide viruslarin yazilmasi,
+butun programlar islederken masin diline cevrilir.ve bunlar bu dilin kodlari ile cevrilir
+menfi cehetleri:
+oyrenmek cox vaxt alir 
+kodlar daha uzun olur
+yazdiginiz kodun ne ise yaradigini vaxat kecdikce basa dusulur.ona gorede kodlarin qarsisinda kodun ne ucun yazdigimi qeyd etmek lazimdi
+Delphi bir proglamlama dili ve web masaustu ve mobil applicationlar ucun IDE - dir. Delphin Object Pascali itifade ederek windows Mac OS X IOS , Android ve Linux ucun kodlar yarada biler . Delphi diqqet celb eden bir guce sahibdir.C# VE sWIFT KIMI mehsur dillerin ferqli olaraq, bir milyon setrlik dephi layihesi saniyeler icinde yigila biler , inkisaf etdrilmeye davam eliyir ve her 6 aydan bir yeni xususiyetleriyle yeni versiyasi yayinlanir. C programming language C prog dili 1970 ci illerde UNIX isletim sistemlerini ucun inkisaf etdrilmis bir proglamlama dilidir C gunumuzde butun isletim sistemlerinde istifade edilen ve dunyada en cox islenen sistem proqamlama dilidir hmcinin proqramlar yazmaq ucunde istifade edilir. C nin Assamblya gore iki vacip xusisiyyeti var : 1 - : C menbe kodunun oxunmsi daha rahatdir xususende uzun progrmlar ucun , yazilmasi daha asandir. 2 -: Assemly programi umuiyetle yalniz tek bir masin novu uzerinde isleyebilerken C programlar
